@@ -1,0 +1,1 @@
+is this a text document were i can put all my ideas?#include <hearder.c>
